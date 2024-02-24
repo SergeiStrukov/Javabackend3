@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65eaf707-6197-4610-910a-c3bcde9f82ed" name="Changes" comment="ser">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/examp240424_2/ClassWork.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/examp240424/Helloworld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/examp240424/Helloworld.java" afterDir="false" />
-    </list>
+    <list default="true" id="65eaf707-6197-4610-910a-c3bcde9f82ed" name="Changes" comment="ser" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ClassWork.executor": "Run",
     "Application.Helloworld.executor": "Run",
     "Application.Main.executor": "Run",
     "Notification.DisplayName-DoNotAsk-Vcs Important Messages": "VCS important messages",
@@ -141,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708804477359</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ser">
+      <option name="closed" value="true" />
+      <created>1708811973988</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708811973988</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
