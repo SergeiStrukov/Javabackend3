@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65eaf707-6197-4610-910a-c3bcde9f82ed" name="Changes" comment="ser" />
+    <list default="true" id="65eaf707-6197-4610-910a-c3bcde9f82ed" name="Changes" comment="ser">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Homework/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Homework/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Homework/task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Homework/task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example250224lesson3/Classwork2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example250224lesson3/Lesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example250224lesson3/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example250224lesson3/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example250224lesson3/task5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/examp240424_2/ClassWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/examp240424_2/ClassWork.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,8 +58,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ClassWork.executor": "Run",
+    "Application.Classwork2.executor": "Run",
     "Application.Helloworld.executor": "Run",
+    "Application.Lesson.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Task3.executor": "Run",
+    "Application.Task4.executor": "Run",
+    "Application.task1.executor": "Run",
+    "Application.task2.executor": "Run",
+    "Application.task3.executor": "Run",
+    "Application.task4.executor": "Run",
+    "Application.task5.executor": "Run",
     "Notification.DisplayName-DoNotAsk-Vcs Important Messages": "VCS important messages",
     "Notification.DoNotAsk-Vcs Important Messages": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -58,13 +79,13 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ClassWork">
-    <configuration name="ClassWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.examp240424_2.ClassWork" />
+  <component name="RunManager" selected="Application.task4">
+    <configuration name="task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Homework.task1" />
       <module name="Javabackend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.examp240424_2.*" />
+          <option name="PATTERN" value="org.Homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Helloworld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.examp240424.Helloworld" />
+    <configuration name="task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Homework.task2" />
       <module name="Javabackend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.examp240424.*" />
+          <option name="PATTERN" value="org.Homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +106,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+    <configuration name="task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Homework.task3" />
       <module name="Javabackend" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.examp240424.*" />
+          <option name="PATTERN" value="org.Homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Homework.task4" />
+      <module name="Javabackend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.Homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example250224lesson3.task5" />
+      <module name="Javabackend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example250224lesson3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,9 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ClassWork" />
-        <item itemvalue="Application.Helloworld" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.task4" />
+        <item itemvalue="Application.task3" />
+        <item itemvalue="Application.task2" />
+        <item itemvalue="Application.task1" />
+        <item itemvalue="Application.task5" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +195,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708811973988</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ser">
+      <option name="closed" value="true" />
+      <created>1708812168515</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708812168515</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

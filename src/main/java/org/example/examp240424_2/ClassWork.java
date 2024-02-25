@@ -44,7 +44,5 @@ public class ClassWork {
         for (int i = 1; i < 6; i++) {
             System.out.println(i);
         }
-
-
     }
 }
