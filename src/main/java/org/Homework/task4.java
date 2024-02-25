@@ -1,7 +1,7 @@
 package org.Homework;
 
 public class task4 {
-    // Площадь сферы1
+    // Площадь сферы11
     public static void main(String[] args) {
         int Radius = 8;
         double sphere = 4 * Math.PI * Math.pow(Radius,2);
