@@ -14,10 +14,11 @@ public class Task3 {
         double side3 = scanner.nextDouble();
         System.out.println("Fourth side is:");
         double side4 = scanner.nextDouble();
-        double perimeter = calculateperimeter (side1,side2,side3,side4);
+        double perimeter = calculateperimeter(side1, side2, side3, side4);
         System.out.println(perimeter);
     }
-    public static double calculateperimeter (double side1, double side2, double side3, double side4) { // Метод для расчета периметра.
+
+    public static double calculateperimeter(double side1, double side2, double side3, double side4) { // Метод для расчета периметра.
         double perimeter = side1 + side2 + side3 + side4;
         return perimeter;
     }

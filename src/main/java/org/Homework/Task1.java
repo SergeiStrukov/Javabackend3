@@ -10,11 +10,12 @@ public class Task1 {
         double base = scanner.nextDouble();
         System.out.println("Enter the value of height:");
         double height = scanner.nextDouble();
-        double square = calculatesquare(base,height); // Вызываем метод с аргументами, которые задали в консоли.
+        double square = calculatesquare(base, height); // Вызываем метод с параметрами, которые задали в консоли.
         System.out.println(square);
 
     }
-    public static double calculatesquare (double base, double height) { // метод для расчета площади треугольника.
+
+    public static double calculatesquare(double base, double height) { // метод для расчета площади треугольника.
         double square = base * height * 0.5;
         return square;
     }

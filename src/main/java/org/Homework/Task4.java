@@ -11,8 +11,9 @@ public class Task4 {
         double sphere = countsphere(radius); // Вызываем метод со значением, которое задали в консоли.
         System.out.println("value of sphere is: " + sphere);
     }
-    public static double countsphere (double radius) { // Метод для расчета площади сферы.
-        double sphere = 4 * Math.PI * Math.pow(radius,2);
+
+    public static double countsphere(double radius) { // Метод для расчета площади сферы.
+        double sphere = 4 * Math.PI * Math.pow(radius, 2);
         return sphere;
     }
 }

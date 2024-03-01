@@ -12,8 +12,9 @@ public class Task2 {
         System.out.println(size);
 
     }
-    public static double calculateSize (double side) { // Метод для расчета объёма куба.
-        double size = Math.pow(side,3);
+
+    public static double calculateSize(double side) { // Метод для расчета объёма куба.
+        double size = Math.pow(side, 3);
         return size; // возвращаем значение
     }
 }
